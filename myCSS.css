@@ -11,7 +11,7 @@ width: 960px;
 margin: 0 auto;
 }
 .header {
-background: #AAAAAA;
+background: #004c54;
 text-align: center;
 margin: 0px;
 padding: 5;
@@ -20,7 +20,7 @@ width: 100%;
 height: 80px;
 }
 .nav {
-background: #BBBBBB;
+background: #00000;
 margin: 0px;
 padding: 5;
 float: left;
